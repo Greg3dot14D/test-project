@@ -4,19 +4,14 @@ Edit from job
 
 Step 3
 
-<<<<<<< HEAD
-Step 4_1
+
 Step 5_2
-=======
 
 Step 4_2
 
 Step 4_1
 
-<<<<<<< HEAD
->>>>>>> a3bfe54c6e426489ca7644c8ddf61e4e604029de
-
 Step 5_3
-=======
+
 Step 5_1
->>>>>>> c73bd4ed1f1fd30ffb79e2965c1919faaff5b9cf
+
